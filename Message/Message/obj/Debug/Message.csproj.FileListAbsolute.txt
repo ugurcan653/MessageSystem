@@ -1,0 +1,6 @@
+D:\deneme\Message\Message\bin\Debug\Message.exe.config
+D:\deneme\Message\Message\bin\Debug\Message.exe
+D:\deneme\Message\Message\bin\Debug\Message.pdb
+D:\deneme\Message\Message\obj\Debug\Message.csprojAssemblyReference.cache
+D:\deneme\Message\Message\obj\Debug\Message.exe
+D:\deneme\Message\Message\obj\Debug\Message.pdb
